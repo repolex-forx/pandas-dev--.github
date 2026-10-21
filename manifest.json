@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "pandas-dev",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "5680a17581c44f1ed09b19a99d6e044295750d35",
+      "parsed_at": "2026-10-21T20:46:42.718805+00:00",
+      "filetree": "filetree/5680a17581c44f1ed09b19a99d6e044295750d35.nq.gz",
+      "blobs": [
+        "blob/27dfded808b952f912f8c30d46bff163bc21e456.nq.gz",
+        "blob/085b0778b5af48391fd435a00ca5ae1d92a7dc65.nq.gz",
+        "blob/d27eab5b9c95cb2ce385bf9a39d42551155fa266.nq.gz",
+        "blob/a623de3667bd2b93be7929e9f2603e977544b6cf.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
