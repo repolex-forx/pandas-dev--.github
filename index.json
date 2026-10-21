@@ -1,0 +1,11 @@
+{
+  "org": "pandas-dev",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "5680a17581c44f1ed09b19a99d6e044295750d35",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:48:42.461478+00:00"
+    }
+  ]
+}
